@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunkyIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunkyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-253
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sunkyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sunkyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-239
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunkyUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sunky_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		80,
+		142
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
