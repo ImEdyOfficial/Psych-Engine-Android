@@ -1,24 +1,30 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253], "template"],
-		["Fresh", "dad", [146, 113, 253], "Edite no"],
-		["Dad Battle", "dad", [146, 113, 253], "Editor de weeks"]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
+	"storyName": ")*@!&#)!@*#&(*@$^#@(^@($^@(&$^#&^@&#$^*#&^&*$^*#&^#%&^%#(&$%^(&#$^(&",
+	"hideFreeplay": false,
+	"weekBackground": "krusty",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": false,
-
-	"hideStoryMode": true,
-	"hideFreeplay": true,
-	"showcutscene": false,
-	"currentcutscene": "template"
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ready or not",
+			"sponge",
+			[
+				240,
+				200,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
 }
